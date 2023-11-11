@@ -1,4 +1,6 @@
 
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&center=true&width=1000&lines=🚀 Ignite Your Learning Journey! Give a Star! 🌟" alt="Typing SVG" /></div>
+
 # Node.js Learning Journey
 
 Welcome to my Node.js learning journey repository! 🚀 In this repository, I am systematically covering various aspects of JavaScript and web development, with a focus on Node.js.
@@ -97,3 +99,6 @@ Welcome to my Node.js learning journey repository! 🚀 In this repository, I am
 - Feel free to ask questions or contribute to make this learning journey even better!
 
 Happy coding! 🚀
+
+
+<div align="center">Made with ❤️ by <a href="https://github.com/ajay-dhangar" target="_blank">Ajay-Dhangar</a></div>
